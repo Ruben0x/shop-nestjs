@@ -6,9 +6,6 @@
 
 # Teslo API
 
-
-# Teslo API
-
 1. Clonar proyecto
 2. ```npm install```
 3. Clonar el archivo ```.env.template``` y renombrarlo a ```.env```
